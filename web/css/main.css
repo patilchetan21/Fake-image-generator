@@ -99,7 +99,7 @@ body {
     height: 100%;
     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #fff;
-    background-color: #000;
+    background-color: #393434;
 }
 
 html {
@@ -541,3 +541,6 @@ body {
   20% {
     -webkit-transform: scaleY(1);
             transform: scaleY(1); } }
+.bg-change{
+    background-color: #474242 !important;
+}
